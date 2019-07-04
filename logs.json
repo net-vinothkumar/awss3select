@@ -1,0 +1,50 @@
+{ "traceId": "12345", "reqId": "1000", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "434323", "reqId": "1001", "reqMethod":  "PUT", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "52342", "reqId": "1002", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "3453434", "reqId": "1003", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "2345443", "reqId": "1041", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "56565", "reqId": "1071", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "7767565", "reqId": "1201", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "43423265", "reqId": "1801", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "787676", "reqId": "1071", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "887767", "reqId": "1081", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "7677687", "reqId": "1081", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "6767676", "reqId": "1201", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"403", "resStatusMessage":"forbidden", "accept":"application/json" }
+{ "traceId": "767565", "reqId": "1901", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "766565", "reqId": "1201", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "656587", "reqId": "1701", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "878765", "reqId": "1091", "reqMethod":  "PUT", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "987565", "reqId": "1201", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "5454555", "reqId": "1701", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "8766565", "reqId": "1101", "reqMethod":  "PUT", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "476455", "reqId": "1801", "reqMethod":  "DELETE", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "87565", "reqId": "1021", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "87756", "reqId": "1061", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "6754343", "reqId": "1091", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"403", "resStatusMessage":"forbidden", "accept":"application/json" }
+{ "traceId": "76764545", "reqId": "1201", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "7866565", "reqId": "1701", "reqMethod":  "DELETE", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"403", "resStatusMessage":"forbidden", "accept":"application/json" }
+{ "traceId": "12345", "reqId": "1000", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "434323", "reqId": "1001", "reqMethod":  "PUT", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "52342", "reqId": "1002", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "3453434", "reqId": "1003", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "2342443", "reqId": "1041", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "56575", "reqId": "1071", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "7760565", "reqId": "1201", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "43493265", "reqId": "1801", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "787676", "reqId": "1071", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "887767", "reqId": "1081", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "7677687", "reqId": "1081", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "6769676", "reqId": "1201", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"403", "resStatusMessage":"forbidden", "accept":"application/json" }
+{ "traceId": "72565", "reqId": "1901", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "766565", "reqId": "1201", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "656587", "reqId": "1701", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "878965", "reqId": "1091", "reqMethod":  "PUT", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "987565", "reqId": "1201", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "5484555", "reqId": "1701", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"200", "resStatusMessage":"success", "accept":"application/json" }
+{ "traceId": "8766565", "reqId": "1101", "reqMethod":  "PUT", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "476455", "reqId": "1801", "reqMethod":  "DELETE", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "87565", "reqId": "1021", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "87756", "reqId": "1061", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"401", "resStatusMessage":"unauthorized", "accept":"application/json" }
+{ "traceId": "6754343", "reqId": "1091", "reqMethod":  "POST", "reqUri":"https://learnshare/rest/api/emp/","resStatusCode":"403", "resStatusMessage":"forbidden", "accept":"application/json" }
+{ "traceId": "73764545", "reqId": "1201", "reqMethod":  "GET", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"500", "resStatusMessage":"internal server error", "accept":"application/json" }
+{ "traceId": "7863565", "reqId": "1701", "reqMethod":  "DELETE", "reqUri":"https://learnshare/rest/api/1","resStatusCode":"403", "resStatusMessage":"forbidden", "accept":"application/json" }
