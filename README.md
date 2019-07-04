@@ -14,11 +14,11 @@ By using S3 Select to retrieve only the data needed by your application, you can
 
 ### DEMO
 
-select count(*) from s3object s&nbsp;
-select * from s3object s limit 10&nbsp;
-select * from s3object s where s.reqId='1000'&nbsp;
-select * from s3object s where s.reqMethod='GET'&nbsp;
-select * from s3object s where s.resStatusCode='401'&nbsp;
-select * from s3object s where s.resStatusCode='200'&nbsp;
-select * from s3object s where s.accept='application/json'&nbsp;
+select count(*) from s3object s
+select * from s3object s limit 10
+select * from s3object s where s.reqId='1000
+select * from s3object s where s.reqMethod='GET'
+select * from s3object s where s.resStatusCode='401'
+select * from s3object s where s.resStatusCode='200'
+select * from s3object s where s.accept='application/json'
 
