@@ -2,6 +2,10 @@
 
 ### How to query AWS S3 bucket using AWS S3 Select ?
 
+![s3_select](https://user-images.githubusercontent.com/30971809/60686181-9e0eae00-9ea7-11e9-8efd-9293644542cc.png)
+
+
+
 ### AWS S3 Bucket :
 Amazon Simple Storage Service (S3) stores data for millions of applications used by market leaders in every industry. 
 
