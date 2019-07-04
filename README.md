@@ -12,7 +12,7 @@ With S3, I can store as many objects as I want and individual objects can be as 
 By using S3 Select to retrieve only the data needed by your application, you can achieve drastic performance increases – in many cases you can get as much as a 400% improvement.
 
 
-### DEMO
+### DEMO AWS S3 Select SQL Queries
 
 select count(*) from s3object s\
 select * from s3object s limit 10\
