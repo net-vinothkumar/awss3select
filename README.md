@@ -26,10 +26,10 @@ You want to pre-filter S3 objects before performing additional analysis with too
 You want to reduce the volume of data that has to be loaded and processed by your applications thus, improving performance and thus, reducing cost.
 
 ### Cost of S3-Select
-The cost of S3 Select depends on two things — data scanned to query and data returned. For example, if S3 query scans 5GB data and returns 2GB data, the cost for us-east-1 region would be :
-Data Scanned by S3 SELECT : $0.002 / GB * 5 = $0.01
-Data Returned by S3 SELECT : $0.0007/GB * 2 = $0.0014
-Total = $0.0114 per S3 SELECT request.
+The cost of S3 Select depends on two things — data scanned to query and data returned. For example, if S3 query scans 5GB data and returns 2GB data, the cost for us-east-1 region would be :\
+Data Scanned by S3 SELECT : $0.002 / GB * 5 = $0.01\
+Data Returned by S3 SELECT : $0.0007/GB * 2 = $0.0014\
+Total = $0.0114 per S3 SELECT request.\
 
 ### DEMO AWS S3 Select SQL Queries
 
