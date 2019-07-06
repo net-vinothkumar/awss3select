@@ -1,6 +1,8 @@
 # AWS S3 SELECT :
 
 ### How to query AWS S3 bucket using AWS S3 Select ?
+<img width="1227" alt="Screen Shot 2019-07-06 at 05 58 49" src="https://user-images.githubusercontent.com/30971809/60751280-2af25e00-9fb3-11e9-9120-6c869c121d17.png">
+
 
 ![s3_select](https://user-images.githubusercontent.com/30971809/60686181-9e0eae00-9ea7-11e9-8efd-9293644542cc.png)
 
