@@ -42,5 +42,11 @@ select * from s3object s where s.reqId='1000'\
 select * from s3object s where s.reqMethod='GET'\
 select * from s3object s where s.resStatusCode='401'\
 select * from s3object s where s.resStatusCode='200'\
-select * from s3object s where s.accept='application/json'\
+select * from s3object s where s.accept='application/json'
+
+
+### Use Case
+
+<img width="1309" alt="Screen Shot 2019-07-06 at 05 37 15" src="https://user-images.githubusercontent.com/30971809/60751028-3001de00-9fb0-11e9-8005-ebef08c9ca06.png">
+
 
