@@ -34,6 +34,12 @@ Total = $0.0114 per S3 SELECT request.
 ### Terminology to write S3-Select query
 To use S3 Select, your data must be structured in either CSV or JSON format with UTF-8 encoding. You can also compress your files with GZIP or BZIP2 before sending to S3 to save on object size.
 
+
+### Use Case
+
+<img width="1309" alt="Screen Shot 2019-07-06 at 05 37 15" src="https://user-images.githubusercontent.com/30971809/60751028-3001de00-9fb0-11e9-8005-ebef08c9ca06.png">
+
+
 ### DEMO AWS S3 Select SQL Queries
 
 select count(*) from s3object s\
@@ -43,10 +49,4 @@ select * from s3object s where s.reqMethod='GET'\
 select * from s3object s where s.resStatusCode='401'\
 select * from s3object s where s.resStatusCode='200'\
 select * from s3object s where s.accept='application/json'
-
-
-### Use Case
-
-<img width="1309" alt="Screen Shot 2019-07-06 at 05 37 15" src="https://user-images.githubusercontent.com/30971809/60751028-3001de00-9fb0-11e9-8005-ebef08c9ca06.png">
-
 
