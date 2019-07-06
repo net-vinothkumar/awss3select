@@ -31,6 +31,9 @@ Data Scanned by S3 SELECT : $0.002 / GB * 5 = $0.01\
 Data Returned by S3 SELECT : $0.0007/GB * 2 = $0.0014\
 Total = $0.0114 per S3 SELECT request.
 
+### Terminology to write S3-Select query
+To use S3 Select, your data must be structured in either CSV or JSON format with UTF-8 encoding. You can also compress your files with GZIP or BZIP2 before sending to S3 to save on object size.
+
 ### DEMO AWS S3 Select SQL Queries
 
 select count(*) from s3object s\
