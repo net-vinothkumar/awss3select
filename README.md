@@ -16,6 +16,15 @@ With S3, I can store as many objects as I want and individual objects can be as 
 By using S3 Select to retrieve only the data needed by your application, you can achieve drastic performance increases – in many cases you can get as much as a 400% improvement.
 
 
+### When to use S3-Select?
+
+S3 Select is extremely useful when:\
+You have a large amount of structured data that can be queried upon.\
+Only a small portion of the object is relevant to your current needs.\
+You want to have partial data retrieval ability and get filtered data for user.
+You want to pre-filter S3 objects before performing additional analysis with tools like Spark or Presto.
+You want to reduce the volume of data that has to be loaded and processed by your applications thus, improving performance and thus, reducing cost.
+
 ### DEMO AWS S3 Select SQL Queries
 
 select count(*) from s3object s\
